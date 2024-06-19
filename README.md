@@ -1,5 +1,6 @@
 # STABLAB
-This repository is a package for simulating qubit stabilizer group on MATLAB.
+This repository is a package for simulating qubit stabilizer groups on MATLAB.
+
 Features:
 - Performing Clifford unitary operations on a stabilizer group
 - Performing Single-qubit and multi-qubit Pauli measurements
