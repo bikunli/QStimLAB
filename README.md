@@ -1,4 +1,4 @@
-# STABLAB
+# QStimLAB
 This repository is a package for simulating qubit stabilizer groups on MATLAB.
 
 Features:
